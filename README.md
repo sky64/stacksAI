@@ -1,0 +1,2 @@
+# stacksAI
+AI accounting platform 
